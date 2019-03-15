@@ -1,0 +1,13 @@
+#1.在idea的安装目录bin下修改idea64.exe，idea.exe两个文件
+
+-javaagent:D:\idea\IntelliJ IDEA 2018.3.5\bin\JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar
+
+#打开idea，选择Activation code，在下方输入相同的代码
+
+-javaagent:D:\idea\IntelliJ IDEA 2018.3.5\bin\JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar
+
+##补丁地址  http://idea.lanyus.com/
+##选择第一个jar包，（破解补丁无需使用注册码）
+
+##参考文档https://blog.csdn.net/las723/article/details/86233466
+注：最后一步改成指向破解文件jar包
